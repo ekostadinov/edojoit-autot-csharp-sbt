@@ -1,23 +1,13 @@
-# Problem Name
+# Declare Variables
 
 ## Description
-Write a program that prints the first 1000 members of the sequence: `2, -3, 4, -5, 6, -7`
-  - You might need to learn how to use loops in C# (search in Internet).
+Declare 10 (ten) variables choosing for each of them the most appropriate of the types to represent the following values:`782130, -15, 48258542, 0, -10000, 782130, -95543, 962482, 2244230, 23474326891`. Choose a large enough type for each number to ensure it will fit in it. Try to compile the code.
 
 ## Input
 - There is no input for this task.
 
 ## Output
-- Output the first 1000 members of the sequence, each on a separate line.
-
-```
-2
--3
-4
--5
-6
-...
-```
+- There is no output for this task.
 
 ## Constraints
 - Time limit: **0.1s**
