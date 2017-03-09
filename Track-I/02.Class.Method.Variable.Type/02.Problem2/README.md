@@ -1,23 +1,7 @@
-# Problem Name
+# Float or Double
 
 ## Description
-Write a program that prints the first 1000 members of the sequence: `2, -3, 4, -5, 6, -7`
-  - You might need to learn how to use loops in C# (search in Internet).
-
-## Input
-- There is no input for this task.
-
-## Output
-- Output the first 1000 members of the sequence, each on a separate line.
-
-```
-2
--3
-4
--5
-6
-...
-```
+Which of the following values can be assigned to a variable of type float and which to a variable of type double: `34.567839023, 12.345, 8923.1234857, 3456.091`. Write a program to assign the numbers in variables and print them to ensure no precision is lost.
 
 ## Constraints
 - Time limit: **0.1s**
