@@ -1,9 +1,4 @@
 Homework: Introduction to Programming
 =====================================
 
-### Submit homework for Peer review
-
-### Problem List
-
-1. [01.Problem1](./01.Problem1)
-1. [02.Problem2](./02.Problem2)
+### There is no homework associated with this presentation
