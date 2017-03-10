@@ -1,23 +1,11 @@
-# Problem Name
+# OOP
 
 ## Description
-Write a program that prints the first 1000 members of the sequence: `2, -3, 4, -5, 6, -7`
-  - You might need to learn how to use loops in C# (search in Internet).
+Unit test the `Human`, `Student` and `Worker` classes from the previous homeworks.
+  	- Use NUnit as a testing framework
+    - Ensure code coverage of 80% for the classes
+    - Fix any bugs you find during the unit testing
 
-## Input
-- There is no input for this task.
-
-## Output
-- Output the first 1000 members of the sequence, each on a separate line.
-
-```
-2
--3
-4
--5
-6
-...
-```
 
 ## Constraints
 - Time limit: **0.1s**
