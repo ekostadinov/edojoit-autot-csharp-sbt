@@ -5,7 +5,7 @@ Homework: Working with Strings
 
 ### Problem List
 
-1. [Strings in C#](./01. Strings in C%23)
+1. [Strings in C#](./01.StringsCSharp)
 1. [Reverse string](./02. Reverse string)
 1. [Correct brackets](./03. Correct brackets)
 1. [Sub-string in text](./04. Sub-string in text)
