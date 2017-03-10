@@ -7,7 +7,7 @@ _Example input:_
 
 	<html>
 	  <head><title>News</title></head>
-	  <body><p><a href="http:/e-dojo.it">eITdojo
+	  <body><p><a href="http://e-dojo.it">eITdojo
     </a>aims to provide free real-world practical
 		training for young people who want to turn into
 		skilful QA engineers.</p></body>
