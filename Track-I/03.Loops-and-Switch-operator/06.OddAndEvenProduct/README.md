@@ -17,9 +17,10 @@ otherwise write on the console `no ODD PRODUCT_VALUE EVEN_PRODUCT_VALUE`
 |     Input      |     Output     |
 |----------------|----------------|
 |5               |yes 6             |
- 2 1 1 6 3
+| 2 1 1 6 3      |		|
+|		|		|
 |5               |no 16 15          |
- 4 3 2 5 2
+| 4 3 2 5 2	|		|
 
 ## Constraints
 - Time limit: **0.1s**
