@@ -5,5 +5,5 @@ Homework: Selenium Introduction, Webdriver API
 
 ### Problem List
 
-1. [01.Problem1](./01.Problem1)
-1. [02.Problem2](./02.Problem2)
+1. [Selectors](./01.Selectors)
+1. [WebDriver API](./02.WebDriverAPI)
