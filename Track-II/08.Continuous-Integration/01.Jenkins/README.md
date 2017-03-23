@@ -1,4 +1,4 @@
-# My First Jenkins Project
+# Jenkins
 
 ## Description
 Create and configure simple Test project. Try to run all your tests you have created so far, use your Github repo.
@@ -6,7 +6,3 @@ Create and configure simple Test project. Try to run all your tests you have cre
 
 ## Input
 - There is no input for this task.
-
-## Constraints
-- Time limit: **0.1s**
-- Memory limit: **16MB**
