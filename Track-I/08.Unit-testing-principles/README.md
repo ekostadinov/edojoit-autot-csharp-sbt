@@ -5,5 +5,5 @@ Homework: Unit testing principles
 
 ### Problem List
 
-1. [01.Students Courses](./01.StudentsCourses)
-1. [02.OOP](./02.OOP)
+1. [Students Courses](./01.StudentsCourses)
+1. [OOP](./02.OOP)
