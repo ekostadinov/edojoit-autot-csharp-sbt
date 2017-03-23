@@ -5,5 +5,5 @@ Homework: Unit testing frameworks (xUnit)
 
 ### Problem List
 
-1. [01.Problem1](./01.Problem1)
-1. [02.Problem2](./02.Problem2)
+1. [Test Your Code](./01.TestYourCode)
+1. [Moq](./02.Problem2)
