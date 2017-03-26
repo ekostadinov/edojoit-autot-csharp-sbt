@@ -5,5 +5,5 @@ Homework: Test Automation Good Practices
 
 ### Problem List
 
-1. [01.Problem1](./01.Problem1)
-1. [02.Problem2](./02.Problem2)
+1. [Hard coding](./01.HardCoding)
+1. [Utilities](./02.Utilities)
