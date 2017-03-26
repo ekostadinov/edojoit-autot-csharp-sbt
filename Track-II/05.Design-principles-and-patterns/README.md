@@ -5,5 +5,8 @@ Homework: Design principles and patterns
 
 ### Problem List
 
-1. [01.Problem1](./01.Problem1)
-1. [02.Problem2](./02.Problem2)
+1. [POM](./01.POM)
+1. [Factory](./02.Factory)
+1. [LoadableComponent](./03.LoadableComponent)
+1. [ObjectMap](./04.Factory)
+1. [xUnit](./02.xUnit)
