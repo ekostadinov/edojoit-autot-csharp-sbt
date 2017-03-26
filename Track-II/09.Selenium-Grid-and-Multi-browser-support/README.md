@@ -5,5 +5,5 @@ Homework: Selenium Grid and Multi-browser support
 
 ### Problem List
 
-1. [01.Problem1](./01.Problem1)
-1. [02.Problem2](./02.Problem2)
+1. [Setup](./01.Setup)
+1. [Chrome and Firefox Nodes](./02.ChromeFirefoxNodes)
