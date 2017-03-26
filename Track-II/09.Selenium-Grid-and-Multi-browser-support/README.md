@@ -7,3 +7,5 @@ Homework: Selenium Grid and Multi-browser support
 
 1. [Setup](./01.Setup)
 1. [Chrome and Firefox Nodes](./02.ChromeFirefoxNodes)
+1. [Run on Grid](./03.GridNodeRun)
+
