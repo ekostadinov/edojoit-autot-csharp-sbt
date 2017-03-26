@@ -5,5 +5,5 @@ Homework: Document Object Model. Locators basics
 
 ### Problem List
 
-1. [01.Problem1](./01.Problem1)
-1. [02.Problem2](./02.Problem2)
+1. [Guinea pig](./01.GuineaPig)
+1. [02.Practice form](./02.PracticeForm)
