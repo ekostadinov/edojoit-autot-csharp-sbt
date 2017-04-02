@@ -5,5 +5,5 @@ Homework: Logging and Reporting
 
 ### Problem List
 
-1. [01.Problem1](./01.Problem1)
-1. [02.Problem2](./02.Problem2)
+1. [Custom Logging](./01.CustomLogging)
+1. [NUnit Report](./02.NUnitReport)
