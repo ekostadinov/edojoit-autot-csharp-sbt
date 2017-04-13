@@ -60,7 +60,7 @@ TeamCity, Jenkins, TravisCI
 
 ### [09. Selenium Grid and Multi-browser support](/Track-II/09.Selenium-Grid-and-Multi-browser-support)
 
-### [10. Data-driven and Behavior-driven testing](/Track-II/10. Data-driven-and-Behavior-driven-testing)
+### [10. Data-driven and Behavior-driven testing](/Track-II/10.Data-driven-and-Behavior-driven-testing)
 Excel, CSV, Database, SpecFlow, Cucumber JVM, JBehave
 
 ### [11. Final Exam](/Track-II/11.Final-Exam)
