@@ -8,8 +8,9 @@
 1. Submit all your work as **.zip** file (remove **obj** and **bin** folders from each project in your solution) 
 1. Solutions that doesn't compile, will lead to **failed exam**
 1. Provide a `README.md` if your solution needs additional information (used packages, configs etc.)
-1. Send your solution to me for evaluation
+1. Send your solution to the course trainer for evaluation
 
 ## Tips
 1. Follow all good practices learned so far, like [High quality code](https://github.com/ekostadinov/edojoit-autot-csharp-sbt/tree/master/Track-I/09.High-quality-code). Not formatted code, poor naming, useless comments .etc may **lead to lower grade**
 1. Use what you've learned from doing your homeworks with [Strings](https://github.com/ekostadinov/edojoit-autot-csharp-sbt/tree/master/Track-I/05.Strings), [Loops](https://github.com/ekostadinov/edojoit-autot-csharp-sbt/tree/master/Track-I/03.Loops-and-Switch-operator) and [Data structures](https://github.com/ekostadinov/edojoit-autot-csharp-sbt/tree/master/Track-I/04.Data-structures)
+1. Each problem will be exercised against unit tests, so be sure to cover the expected behaviour and corner cases
