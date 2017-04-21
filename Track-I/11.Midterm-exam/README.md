@@ -10,7 +10,7 @@
 1. Provide a `README.md` if your solution needs additional information (used packages, configs etc.).
 1. Send your solution to the course trainer for evaluation.
     * Name your submission in the format `[YouName]-[Course]-[ExamName]-[Date]` 
-    * For example: `EvgeniKostadinov-SBTechQaAutomation-MidTerm-25042017`
+    * For example: `EvgeniKostadinov-SBTechQaAutomation-MidTerm-25042017.zip`
 
 ## Tips
 1. Follow all good practices learned so far, like [High quality code](https://github.com/ekostadinov/edojoit-autot-csharp-sbt/tree/master/Track-I/09.High-quality-code). Not formatted code, poor naming, useless comments .etc may **lead to lower grade**.
