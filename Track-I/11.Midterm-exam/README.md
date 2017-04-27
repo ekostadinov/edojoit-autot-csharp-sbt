@@ -16,3 +16,21 @@
 1. Follow all good practices learned so far, like [High quality code](https://github.com/ekostadinov/edojoit-autot-csharp-sbt/tree/master/Track-I/09.High-quality-code). Not formatted code, poor naming, useless comments .etc may **lead to lower grade**.
 1. Use what you've learned from doing your homeworks with [Strings](https://github.com/ekostadinov/edojoit-autot-csharp-sbt/tree/master/Track-I/05.Strings), [Loops](https://github.com/ekostadinov/edojoit-autot-csharp-sbt/tree/master/Track-I/03.Loops-and-Switch-operator) and [Data structures](https://github.com/ekostadinov/edojoit-autot-csharp-sbt/tree/master/Track-I/04.Data-structures).
 1. Each problem will be exercised against unit tests, so be sure to cover the expected behaviour and corner cases.
+
+## Exam Grades
+| Student             | Points |  Comments                                                                              |
+| ------------------- | ------ | -------------------------------------------------------------------------------------- | 
+| Milen Raev          | 0      | Just solution structure submitted.                                                     |
+| Dimitar Batinov     | 200    |                                                                                        |
+| Emil Georgiev       | 130    | Second task can't handle big numbers (`IndexOutOfRangeException`).                     |
+| Ivan Angelov        | 170    | Missing `.sln` file, left comments.                                                    |
+| Kosta Grudov        |130     | Second task can't handle big numbers (`IndexOutOfRangeException`).                     |
+| Nikolay Kostov      | 80     | Missing `.sln` file.                                                                   |
+| Lyubomir Atanassov  | 130    | Second task can't handle big numbers (`IndexOutOfRangeException`).                     |
+| Vidko Videv         | 200    |                                                                                        |
+| Tsvetelina Ruseva   | 180    | Missing `.sln` file. Second task can't handle big numbers (`IndexOutOfRangeException`).|
+| Tzvyatko Kolev      | 200    |                                                                                        |
+| Vladislav Georgiev  | 200    |                                                                                        |
+| Zhivko Kostov       | 200    |                                                                                        |
+| Evgeni Kolev        | 130    | Second task can't handle big numbers (`IndexOutOfRangeException`).                     |
+| Victor Stanchin     | 200    |                                                                                        |
