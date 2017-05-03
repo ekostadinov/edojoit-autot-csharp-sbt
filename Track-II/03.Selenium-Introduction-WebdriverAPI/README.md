@@ -6,4 +6,5 @@ Homework: Selenium Introduction, Webdriver API
 ### Problem List
 
 1. [Selectors](./01.Selectors)
-1. [WebDriver API](./02.WebDriverAPI)
+1. [Capture-Replay](./02.IDE)
+1. [WebDriver API](./03.WebDriverAPI)
