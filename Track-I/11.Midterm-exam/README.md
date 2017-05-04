@@ -34,8 +34,8 @@
 | Zhivko Kostov       | 200    |                                                                                        |
 | Evgeni Kolev        | 130    | Second task can't handle big numbers (`IndexOutOfRangeException`).                     |
 | Victor Stanchin     | 200    |                                                                                        |
-| Marin Damyanov      | 100   | Second problem not submitted                                                            |
-| Nikolay Stamenov    | 20    | First problem prints just `/` and `\`, comments left, conditional flow as exception handling. Second problem gives Compile time errors (String conversion) |
+| Marin Damyanov      | 100   | Second problem not submitted.                                                           |
+| Nikolay Stamenov    | 20    | First problem prints just `/` and `\`, comments left, conditional flow as exception handling. Second problem gives Compile time errors (String conversion). |
 | Tsvetelina Banchevska | 200  |                                                                                        |
-| Milen Zakov           | 100  | Second problem not submitted                                                           |
+| Milen Zakov           | 100  | Second problem not submitted.                                                          |
 | Miroslav Kazakov      | 80   | .sln file not submitted for the first problem. Second problem not submitted.           |
