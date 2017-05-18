@@ -4,7 +4,6 @@
 1. Duration: **3 hours**.
 1. **Two problems** to solve.
 1. Each problem brings you upto 100 points.
-1. Grade precision is rounded to 5%.
 1. Submit all your work as **.zip** file (remove **obj** and **bin** folders from each project in your solution).
 1. Solutions that doesn't compile, will lead to **failed exam**.
 1. Provide a `README.md` if your solution needs additional information (used packages, configs etc.).
