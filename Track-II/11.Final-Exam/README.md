@@ -6,9 +6,10 @@
 1. Each problem brings you upto 100 points.
 1. Submit all your work as **.zip** file (remove **obj** and **bin** folders from each project in your solution).
 1. Solutions that doesn't compile, will lead to **failed exam**.
+1. Similar projects (more than 80%) will lead to **failed exam** regardless of the original author.
 1. Provide a `README.md` if your solution needs additional information (used packages, configs etc.).
 1. Send your solution to the course trainer for evaluation.
-    * Name your submission in the format `[YouName]-[Course]-[ExamName]-[Date]` 
+    * Name your submission in the format `[YourName]-[Course]-[ExamName]-[Date]` 
     * For example: `EvgeniKostadinov-SBTechQaAutomation-MidTerm-25042017.zip`
 
 ## Evaluation criteria
