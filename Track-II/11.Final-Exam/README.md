@@ -38,7 +38,7 @@
 | Vladislav Georgiev  |  30   | only first problem submitted; 3 `namespace`s in single file; `NavigatinThruUrlsShouldWork` is not a real test (no code in ` [TestMethod]`, no Assertion); redundant comments; |
 | Zhivko Kostov       |  60   |   only first problem submitted; poor xpath; |
 | Victor Stanchin     |  0   | Midterm exam submitted.              |
-| Nikolay Stamenov    |  90   | both problems submitted; UI tests form the first one don't follow the exam terms; left comments (plus `IJavaScriptExecutor` use);  `ITakesScreenshot` and exceptions handling  implemented; redundant duplicated `Assert` in second problem; |
+| Nikolay Stamenov    |  90   | both problems submitted; UI tests from the first one don't follow the exam terms; left comments (plus `IJavaScriptExecutor` use);  `ITakesScreenshot` and exceptions handling  implemented; redundant duplicated `Assert` in second problem; |
 | Tsvetelina Banchevska | 40  | partial first problem submitted (2/3 tests); good naming; redundant comments;          |
 | Milen Zakov           | 40  | partial first problem submitted (2/3 tests); absolute paths in selectors; Unreferenced `internal class WebDriverWait`;  |
 | Miroslav Kazakov      | 60   |  only first problem submitted; good naming; only low level NUnit tests; little emphasis to make code generic;  |
