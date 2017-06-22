@@ -33,13 +33,11 @@
 | Nikolay Kostov      |  60   | only first problem submitted; good naming; only low level NUnit tests;                  |
 | Lyubomir Atanassov  |  0   | `.sln` file not submitted; `ScreenShotRemoteWebDriver` (at `http://hub-cloud.browserstack.com/wd/hub/` with no user/key pair) and `Thread.Sleep` is used; Totally unrelated to the exam tests (create github repo; `Test_Google_HelloWorld`) |
 | Vidko Videv         |  40   | solution can't be build (uninitialized local variables used); good naming; control flow used as exception handling; only low level NUnit tests; hardcoded selectors; little emphasis to make code generic;            |
-| Tsvetelina Ruseva   |     | |
+| Tsvetelina Ruseva   |   90  | first problem - single Test method, no Assertion; second problem - dynamic test data is used; redundant comments; only low level NUnit tests; |
 | Tzvyatko Kolev      |  30   | only first problem submitted; poor naming; redundant comments; single assert (miss-placed); |
 | Vladislav Georgiev  |  30   | only first problem submitted; 3 `namespace`s in single file; `NavigatinThruUrlsShouldWork` is not a real test (no code in ` [TestMethod]`, no Assertion); redundant comments; |
-| Zhivko Kostov       |     |                                                                                        |
-| Evgeni Kolev        |     |                     |
+| Zhivko Kostov       |  60   |   only first problem submitted; poor xpath; |
 | Victor Stanchin     |  0   | Midterm exam submitted.              |
-| Marin Damyanov      |    |                                                          |
 | Nikolay Stamenov    |  90   | both problems submitted; UI tests form the first one don't follow the exam terms; left comments (plus `IJavaScriptExecutor` use);  `ITakesScreenshot` and exceptions handling  implemented; redundant duplicated `Assert` in second problem; |
 | Tsvetelina Banchevska | 40  | partial first problem submitted (2/3 tests); good naming; redundant comments;          |
 | Milen Zakov           | 40  | partial first problem submitted (2/3 tests); absolute paths in selectors; Unreferenced `internal class WebDriverWait`;  |
